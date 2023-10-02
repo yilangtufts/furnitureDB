@@ -2,12 +2,11 @@ from os import name
 import psycopg2
 
 # PostgreSQL connection details
-host = 'my_postgres_db'  # Replace with the actual host of your PostgreSQL container
-port = 5432  # Replace with the port of your PostgreSQL container
-database = 'mydatabase'
-user = 'myuser'
-password = 'mypassword'
-
+host = '127.0.0.1'
+port = 5433
+database = 'furnitureDB'
+user = 'postgres'
+password = 'postgres'
 
 def execute(query):
     """ Connect to the PostgreSQL database server """
