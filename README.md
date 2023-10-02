@@ -5,12 +5,12 @@ This is a database project that uses PostgreSQL and Python Flask to create a web
 ## Getting Started
 
 ### Step 1: Initialize the database. This process may take a few minutes due to the large dataset.
-python ./dbload.py
+python dbload.py
 
-## step 2, launch the project
+### step 2, launch the project
 python app.py
 
-## step 3, check the main page using the following link
+### step 3, check the main page using the following link
 http://127.0.0.1:5000
 
 ## Dependencies
