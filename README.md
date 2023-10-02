@@ -7,10 +7,10 @@ This is a database project where PostgreSQL and Python Flask were used to create
 ### Step 1: Initialize the database. This process may take a few minutes due to the large dataset.
 python dbload.py
 
-### step 2, launch the project
+### Step 2, launch the project
 python app.py
 
-### step 3, check the main page using the following link
+### Step 3, check the main page using the following link
 http://127.0.0.1:5000
 
 ## Dependencies
