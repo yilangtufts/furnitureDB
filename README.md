@@ -1,6 +1,6 @@
 ## Overview
 
-This is a database project that uses PostgreSQL and Python Flask to create a web application for managing a large dataset of imaginary furniture store. Follow the steps below to set up the database and run the project.
+This is a database project where PostgreSQL and Python Flask were used to create a web application for managing data of an imaginary furniture store. Follow the steps below to set up the database and run the project.
 
 ## Getting Started
 
