@@ -1,6 +1,6 @@
 ## Overview
 
-This is a database project that uses PostgreSQL and Python Flask to create a web application for managing a large dataset. The project involves loading the dataset into the database and launching a web interface to interact with it. Follow the steps below to set up and run the project.
+This is a database project that uses PostgreSQL and Python Flask to create a web application for managing a large dataset of imaginary furniture store. Follow the steps below to set up the database and run the project.
 
 ## Getting Started
 
@@ -20,4 +20,3 @@ psycopg2==2.7.7
 Flask-WTF==0.14.3
 WTForms==2.3.3
 PostgreSQL>=12.1
-tablefunc module installed for PostgreSQL to make pivot table.
